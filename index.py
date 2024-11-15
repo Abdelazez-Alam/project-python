@@ -101,4 +101,4 @@ while True:
         break
 
     else:
-        print("please choose (1,2,3,4,5)")
+        print("please choose (1,2,3,4,5,6)")
